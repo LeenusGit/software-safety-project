@@ -38,39 +38,40 @@ Grading Criteria:
 ## References
 
 
-@online{SCI_16,
-author  = {Crash Research & Analysis, Inc. (2018, January)},
-title   = {Special crash investigations: On-site automated driver assistance system crash investigation of the 2015 Tesla model S 70D (Report No. DOT HS 812 481)},
-year    = {2018},
-url     = {https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812481},
-urldate = {2020-05-19},
-}
 
-@article{endsley_17,
-  title={Autonomous driving systems: A preliminary naturalistic study of the Tesla Model S},
-  author={Endsley, Mica R},
-  journal={Journal of Cognitive Engineering and Decision Making},
-  volume={11},
-  number={3},
-  pages={225--238},
-  year={2017},
-  publisher={SAGE Publications Sage CA: Los Angeles, CA}
-}
+    @online{SCI_16,
+    author  = {Crash Research & Analysis, Inc. (2018, January)},
+    title   = {Special crash investigations: On-site automated driver assistance system crash investigation of the 2015 Tesla model S 70D (Report No. DOT HS 812 481)},
+    year    = {2018},
+    url     = {https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812481},
+    urldate = {2020-05-19},
+    }
 
-@article{banks_18,
-  title={Driver error or designer error: Using the Perceptual Cycle Model to explore the circumstances surrounding the fatal Tesla crash on 7th May 2016},
-  author={Banks, Victoria A and Plant, Katherine L and Stanton, Neville A},
-  journal={Safety science},
-  volume={108},
-  pages={278--285},
-  year={2018},
-  publisher={Elsevier}
-}
+    @article{endsley_17,
+    title={Autonomous driving systems: A preliminary naturalistic study of the Tesla Model S},
+    author={Endsley, Mica R},
+    journal={Journal of Cognitive Engineering and Decision Making},
+    volume={11},
+    number={3},
+    pages={225--238},
+    year={2017},
+    publisher={SAGE Publications Sage CA: Los Angeles, CA}
+    }
 
-@online{ODI_16,
-author  = {National Highway Traffic Safety Administration, 2017},
-title   = {ODI RESUME: MY2014-2016 Tesla Model S and Model X},
-year    = {2017},
-url     = {https://static.nhtsa.gov/odi/inv/2016/INCLA-PE16007-7876.PDF},
-urldate = {2020-05-21},
+    @article{banks_18,
+    title={Driver error or designer error: Using the Perceptual Cycle Model to explore the circumstances surrounding the fatal Tesla crash on 7th May 2016},
+    author={Banks, Victoria A and Plant, Katherine L and Stanton, Neville A},
+    journal={Safety science},
+    volume={108},
+    pages={278--285},
+    year={2018},
+    publisher={Elsevier}
+    }
+
+    @online{ODI_16,
+    author  = {National Highway Traffic Safety Administration, 2017},
+    title   = {ODI RESUME: MY2014-2016 Tesla Model S and Model X},
+    year    = {2017},
+    url     = {https://static.nhtsa.gov/odi/inv/2016/INCLA-PE16007-7876.PDF},
+    urldate = {2020-05-21},
 }
